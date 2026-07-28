@@ -7,7 +7,7 @@
 <!-- Junior Dior | junior-dior | Protected Repository -->
 
 
-# ⚡ Hello, World! I'm Aleef 👩‍💻
+# ⚡ Hello, World! I'm 4133F 👩‍💻
 
 <p align="center">
   <img 
@@ -16,8 +16,9 @@
   />
 </p>
 
-A passionate **Full-Stack Developer** / **Android Systems Engineer** specializing in performance optimization, low-level Android systems, 64-bit architecture compilation, and multiplayer mobile frameworks.  
-Focused on building scalable systems, optimized mobile environments, and modern full-stack applications with maximum efficiency ⚡
+# My name : Lukmay
+# Age : 15y 🔞
+# Xex : Girl 🙍‍♀️
 
 ---
 
